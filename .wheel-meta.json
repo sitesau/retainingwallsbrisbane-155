@@ -1,0 +1,22 @@
+{
+  "wheel_id": 691,
+  "structure": "umbrella",
+  "slug": "retainingwallsbrisbane-155",
+  "project": "retaining-wall-builders-brisbane-signs-you-need-8b6b7de2dce2f81",
+  "parent_t1_ref": "retainingwallsbrisbane-010",
+  "node_role": "buffer",
+  "money_target": "retainingwallsbrisbane.net.au",
+  "primary_kw": "retaining wall builders brisbane signs you need",
+  "intended_url": "https://aumedia.neocities.org/retaining-wall-builders-brisbane-signs-you-need-8b6b7de2dce2f81/",
+  "tier": "T2",
+  "writeback_nonce": "e98a453be24997b9",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/retainingwallsbrisbane-010/retaining-wall-builders-brisbane.html",
+      "anchor": "retaining wall builders brisbane explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
